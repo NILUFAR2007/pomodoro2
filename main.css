@@ -62,7 +62,7 @@ body{
     align-items: center;
     justify-content: center;
     height: 30px;
-    background-color: crimson;
+    background-color: #ffffff5d;
 }
 
 .long{ 
@@ -82,7 +82,7 @@ body{
     align-items: center;
     justify-content: center;
     height: 30px;
-    background-color: #38858a;
+    background-color: #ffffff5d;
 }
 
 .longactive{
@@ -95,7 +95,7 @@ body{
     align-items: center;
     justify-content: center;
     height: 30px;
-    background-color: #397097;
+    background-color: #ffffff5d;
 }
 /* .part:hover{
     background-color: indianred;
