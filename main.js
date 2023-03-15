@@ -1,4 +1,4 @@
-const audio = new Audio("ES_Button Click - SFX Producer.mp3");
+const audio = new Audio("ES_Switch Push button - SFX Producer.mp3");
 const buttons = document.querySelectorAll("button");
 const btn = document.querySelector(".start");
 const btn2 = document.querySelector(".pause");
